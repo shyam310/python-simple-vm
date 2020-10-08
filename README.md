@@ -1,3 +1,4 @@
+An Awosome virtual interpreter for python
 This is the code from the blog post "Making a simple VM interpreter in Python",
 which you can find at https://csl.name/post/vm/
 
